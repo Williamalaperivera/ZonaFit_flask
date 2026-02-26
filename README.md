@@ -38,3 +38,10 @@ Funcionalidad para modificar los datos existentes de un cliente por su ID.
 ### ➕ Registro de Nuevo Usuario
 Formulario validado para dar de alta nuevos miembros en el sistema.
 <img width="1646" alt="Agregando_usuario" src="https://github.com/user-attachments/assets/95ddca83-3a38-48f9-b90f-085c48b9ae67" />
+
+
+## 🎓 Aprendizajes Clave
+- Manejo de sesiones y seguridad básica en Flask.
+- Gestión de conexiones con pools de conexiones en MySQL.
+- Integración de formularios seguros contra ataques CSRF.
+
